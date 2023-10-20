@@ -1,0 +1,86 @@
+MP1 worksheet
+
+Comments:
+
+
+
+
+
+***************** mileage    *****************
+
+
+Input/output from your mileage program
+____________________________________
+
+Please enter the amount of gas (in gallons) your consumed: 
+12.3
+Please enter the distance 9in miles) you drove: 
+300
+Your car's MPG is:  24.39
+
+***************** bill    *****************
+
+
+Input/output from your bill program 
+____________________________________
+
+Please enter the name of dish one:
+Takoyaki
+Please enter the quantity of dish one:
+1
+Please enter the price of dish one:
+4.00
+Please enter the name of dish two:
+Cold Noodle w Sesame Sauce
+Please enter the quantity of dish two:
+2
+Please enter the price of dish two:
+10.75
+Please enter the name of dish three:
+Seaweed Ramen
+Please enter the quantity of dish three:
+1
+Please enter the price of dish three:
+8.50
+Your Bill: 
+Dish                           Quantity   Price Total
+Takoyaki                       1          4.00  4.00      
+Cold Noodle w Sesame Sauce     2          10.75 21.50     
+Seaweed Ramen                  1          8.50  8.50      
+Subtotal:                      $34.00
+18% tip (before tax):          $6.12
+6% sales tax:                  $2.04
+Total:                         $42.16
+
+***************** jar    *****************
+
+
+Input/output from your jar program
+____________________________________
+
+Please enter the amount of pennies in jar: 
+3
+Please enter the amount of nickels in jar: 
+2
+Please enter the amount of dimes in jar: 
+1
+Please enter the amount of quarters in jar: 
+2
+The jar contains 73 cents.
+
+***************** make_change    *****************
+
+Input/output from your make_change program
+____________________________________
+Please enter the price in $x.xx fromat: 
+3.51
+Please enter the amount paid $x.xx format: 
+5.00
+149
+Total change in dollars: $ 1.49
+Total change in cents: 149
+Dollars: 1
+Quarters: 1
+Dimes: 2
+Nickels: 0
+Pennies: 4
